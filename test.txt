@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I will surely get 20 LPA
+=======
+dharshini 
+>>>>>>> parent of a2cc9d9 (Revert "modified sample.txt")
